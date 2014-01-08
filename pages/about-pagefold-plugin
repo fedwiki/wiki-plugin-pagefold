@@ -44,7 +44,7 @@
     {
       "type": "paragraph",
       "id": "c6a0860d0b328c2b",
-      "text": "See also [https://github.com/WardCunningham/Smallest-Federated-Wiki/tree/master/client/plugins/pagefold Reference Source]."
+      "text": "See [https://github.com/fedwiki/wiki-plugin-pagefold GitHub] for plugin source."
     }
   ],
   "journal": [
@@ -375,6 +375,26 @@
         "text": "See also [https://github.com/WardCunningham/Smallest-Federated-Wiki/tree/master/client/plugins/pagefold Reference Source]."
       },
       "date": 1338145696862
+    },
+    {
+      "type": "edit",
+      "id": "c6a0860d0b328c2b",
+      "item": {
+        "type": "paragraph",
+        "id": "c6a0860d0b328c2b",
+        "text": "See also [https://github.com/fedwiki/wiki-plugin-pagefold Reference Source]."
+      },
+      "date": 1389179762790
+    },
+    {
+      "type": "edit",
+      "id": "c6a0860d0b328c2b",
+      "item": {
+        "type": "paragraph",
+        "id": "c6a0860d0b328c2b",
+        "text": "See [https://github.com/fedwiki/wiki-plugin-pagefold GitHub] for plugin source."
+      },
+      "date": 1389179812150
     }
   ]
 }
