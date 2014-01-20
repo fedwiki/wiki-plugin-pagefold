@@ -4,7 +4,17 @@
     {
       "type": "paragraph",
       "id": "b79877e711562b0c",
-      "text": "PageFolds create a reliable way to segregate content in an individual wiki page."
+      "text": "PageFolds create a reliable way to segregate content in a wiki page. The term alludes to a fan-folded document where the paper creases exert some practical grouping but are not otherwise highly organizational. [https://github.com/fedwiki/wiki-plugin-pagefold github]"
+    },
+    {
+      "type": "paragraph",
+      "id": "dcc84e91933fdb37",
+      "text": "We casually use the shorter term \"fold\" to refer to the PageFold itself and to the content that follows."
+    },
+    {
+      "type": "pagefold",
+      "id": "b7ab3e9901cfd176",
+      "text": "usage"
     },
     {
       "type": "paragraph",
@@ -40,11 +50,6 @@
       "type": "paragraph",
       "id": "ab25337f56944ab0",
       "text": "Consider offering template pages that are already configured with the expected folds."
-    },
-    {
-      "type": "paragraph",
-      "id": "c6a0860d0b328c2b",
-      "text": "See [https://github.com/fedwiki/wiki-plugin-pagefold GitHub] for plugin source."
     }
   ],
   "journal": [
@@ -378,23 +383,128 @@
     },
     {
       "type": "edit",
-      "id": "c6a0860d0b328c2b",
+      "id": "b79877e711562b0c",
       "item": {
         "type": "paragraph",
-        "id": "c6a0860d0b328c2b",
-        "text": "See also [https://github.com/fedwiki/wiki-plugin-pagefold Reference Source]."
+        "id": "b79877e711562b0c",
+        "text": "PageFolds create a reliable way to segregate content in an individual wiki page. The term alludes to a fan-folded document where the paper creases exert some practical grouping but are not otherwise highly organizational."
       },
-      "date": 1389179762790
+      "date": 1390228546006
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "dcc84e91933fdb37",
+        "text": ""
+      },
+      "id": "dcc84e91933fdb37",
+      "type": "add",
+      "after": "b79877e711562b0c",
+      "date": 1390228546515
     },
     {
       "type": "edit",
-      "id": "c6a0860d0b328c2b",
+      "id": "dcc84e91933fdb37",
       "item": {
         "type": "paragraph",
-        "id": "c6a0860d0b328c2b",
-        "text": "See [https://github.com/fedwiki/wiki-plugin-pagefold GitHub] for plugin source."
+        "id": "dcc84e91933fdb37",
+        "text": "We casually use the shorter term fold to refer to the PageFold itself and to the content that immediately follows it."
       },
-      "date": 1389179812150
+      "date": 1390228616706
+    },
+    {
+      "type": "edit",
+      "id": "dcc84e91933fdb37",
+      "item": {
+        "type": "paragraph",
+        "id": "dcc84e91933fdb37",
+        "text": "We casually use the shorter term fold to refer to the PageFold itself and to the content that follows to the next fold."
+      },
+      "date": 1390228637288
+    },
+    {
+      "type": "edit",
+      "id": "dcc84e91933fdb37",
+      "item": {
+        "type": "paragraph",
+        "id": "dcc84e91933fdb37",
+        "text": "We casually use the shorter term fold to refer to the PageFold itself and to the content that follows."
+      },
+      "date": 1390228644864
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b7ab3e9901cfd176"
+      },
+      "id": "b7ab3e9901cfd176",
+      "type": "add",
+      "after": "c6a0860d0b328c2b",
+      "date": 1390228676906
+    },
+    {
+      "type": "edit",
+      "id": "b7ab3e9901cfd176",
+      "item": {
+        "type": "pagefold",
+        "id": "b7ab3e9901cfd176",
+        "text": "usage"
+      },
+      "date": 1390228683543
+    },
+    {
+      "type": "move",
+      "order": [
+        "b79877e711562b0c",
+        "dcc84e91933fdb37",
+        "b7ab3e9901cfd176",
+        "3ea43cd689ef6ef4",
+        "70a92a0aaace16a3",
+        "db2e2488eef2455f",
+        "fe73b11d4ee39fc6",
+        "02e00a437e6f7923",
+        "017e94403375275d",
+        "ab25337f56944ab0",
+        "c6a0860d0b328c2b"
+      ],
+      "id": "b7ab3e9901cfd176",
+      "date": 1390228688334
+    },
+    {
+      "type": "remove",
+      "id": "c6a0860d0b328c2b",
+      "date": 1390229045010
+    },
+    {
+      "type": "edit",
+      "id": "b79877e711562b0c",
+      "item": {
+        "type": "paragraph",
+        "id": "b79877e711562b0c",
+        "text": "PageFolds create a reliable way to segregate content in an individual wiki page. The term alludes to a fan-folded document where the paper creases exert some practical grouping but are not otherwise highly organizational. [https://github.com/fedwiki/wiki-plugin-pagefold github]"
+      },
+      "date": 1390229059692
+    },
+    {
+      "type": "edit",
+      "id": "b79877e711562b0c",
+      "item": {
+        "type": "paragraph",
+        "id": "b79877e711562b0c",
+        "text": "PageFolds create a reliable way to segregate content in a wiki page. The term alludes to a fan-folded document where the paper creases exert some practical grouping but are not otherwise highly organizational. [https://github.com/fedwiki/wiki-plugin-pagefold github]"
+      },
+      "date": 1390229105155
+    },
+    {
+      "type": "edit",
+      "id": "dcc84e91933fdb37",
+      "item": {
+        "type": "paragraph",
+        "id": "dcc84e91933fdb37",
+        "text": "We casually use the shorter term \"fold\" to refer to the PageFold itself and to the content that follows."
+      },
+      "date": 1390229190078
     }
-  ]
+  ],
+  "plugin": "pagefold"
 }
