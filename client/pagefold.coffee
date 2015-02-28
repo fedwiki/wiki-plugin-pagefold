@@ -1,3 +1,10 @@
+###
+ * Federated Wiki : Pagefold Plugin
+ *
+ * Licensed under the MIT license.
+ * https://github.com/fedwiki/wiki-plugin-pagefold/blob/master/LICENSE.txt
+###
+
 # http://stackoverflow.com/questions/5214127/css-technique-for-a-horizontal-line-with-words-in-the-middle
 
 emit = ($item, item) ->
