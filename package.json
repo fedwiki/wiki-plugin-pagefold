@@ -1,6 +1,6 @@
 {
   "name": "wiki-plugin-pagefold",
-  "version": "0.3.0-rc.0",
+  "version": "0.3.0",
   "description": "Federated Wiki - Pagefold Plug-in",
   "keywords": [
     "wiki",
